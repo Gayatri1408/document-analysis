@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Use relative path or point to the uploaded file
-wiki_file_path = 'assets/2019-12-11_MachineVision%2Bcpjobqueue.wikitext'  # Adjusted path
+wiki_file_path = '2019-12-11_MachineVision%2Bcpjobqueue.wikitext'  # Adjusted path
 
 # Function to load the file content
 def load_file(file_path):
